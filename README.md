@@ -14,10 +14,10 @@ Försök hitta vart det står vad storlekarna på dessa skall vara och skapa dem
 
 ## Footer
 - Gör justeringar av färger i footern så att den inte har standard som ges av temat
-- Bonus: Lista ut hur du skulle lägga in sociala medier ikoner i footern (Tips, kolla under "Appearance > Widgets" 
+- Bonus: Lista ut hur du skulle lägga in sociala medier ikoner i footern (Tips, kolla under "Appearance > Widgets")
 
 ## Typography
-Alla rubriker storlekar skall vara i ett annat typsnitt, ni får välj vilket ni vill
+Alla rubriker (h1, h2, ...) skall vara i ett annat typsnitt, ni får välj vilket ni vill
 
 ## Buttons
 - Rundade hörn (4px)
