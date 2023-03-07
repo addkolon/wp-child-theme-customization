@@ -27,7 +27,7 @@ Alla rubriker (h1, h2, ...) skall vara i ett annat typsnitt, ni får välj vilke
 - Rundade hörn (4px)
 
 ## Startsida
-Skapa en sidan och sätt den till "Homepage"
+Skapa en sida ("Page") och sätt den till "Homepage"
 
 ## Produkter
 - Lägg till 3 produkter med text, pris, bild etc.
